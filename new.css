@@ -1,0 +1,63 @@
+.text1{
+    font-size:20px;
+}
+.text1:visited{
+color:darkred;
+}
+.text2{
+    font-size:20px;
+}
+.text3{
+    font-size:20px;
+}
+.text3:hover{
+    color:aqua;
+    font-size:22px;
+}
+.text4{
+    font-size:20px;
+}
+.text4:active{
+ color:darkviolet;
+}
+.text5{
+    font-size:20px;
+}
+.text5:focus{
+    color:darkviolet;
+}
+.box1{
+    margin-top:70px;
+    margin-left:50px;
+}
+.box2{
+    margin-top:70px;
+    margin-left:50px;
+}
+.box3{
+    margin-top:70px;
+    margin-left:50px;
+}
+.box4{
+    display: flex;
+}
+.input1{
+    margin-left: 20px;
+}
+.pp1{
+    margin-left: 10px;
+}
+.box5{
+    margin-top:70px;
+    margin-left:50px;
+}
+.pp2{
+    color:forestgreen;
+}
+.pp3{
+    color:forestgreen;
+    margin-left: 10px;
+}
+.box6{
+    display: flex;
+}
